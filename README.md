@@ -33,53 +33,11 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 💬 Chat Application (MERN)
-🔗 https://github.com/yalog607/Chat-App  
-
-- Real-time chat application using MERN Stack  
-- JWT authentication & user session management  
-- RESTful API design  
-- Built full-stack from scratch  
-
----
-
-### 🎓 LMS Education System
-🔗 Backend: https://github.com/yalog607/backend-lms-education  
-🔗 Frontend: https://github.com/yalog607/frontend-lms-education  
-
-- Full-stack learning management system  
-- Role-based authentication  
-- Structured frontend architecture with React  
-- Optimized MongoDB queries  
-- Deployed on AWS EC2 (Nginx + PM2)  
-
----
-
-### 🌐 Business Website (WordPress)
-🔗 http://keotheptrongkhoa.com/  
-
-- Developed company website using WordPress  
-- SEO optimization & responsive design  
-- Managed hosting and deployment  
-
----
-
-### 🎮 Discord Gamble Bot
-🔗 https://github.com/yalog607/Gamble-Bot  
-
-- Built interactive Discord bot with mini-games  
-- Command-based system  
-- Handled async logic in Node.js  
-
----
-
 ## 📈 Current Focus
 
 - 🔥 Improving MERN Stack skills 
-- ⚙️ Learning DevOps (Docker, CI/CD, Cloud)  
-- 🚀 Building scalable and production-ready systems  with NextJS
+- ⚙️ Learning DevOps (Docker, CI/CD, Cloud) and Next.js
+- 🚀 Building scalable and production-ready systems
 
 ---
 
