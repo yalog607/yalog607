@@ -44,7 +44,6 @@
 ## 📫 Contact Me
 
 - 📧 Email: nguyenyalog@gmail.com  
-- 📱 Phone: 0353.654.359  
 - 🌐 GitHub: https://github.com/yalog607  
 
 ---
