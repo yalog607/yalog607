@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yalog Nguyen
 
-💻 Software Engineering Intern | MERN Stack Developer  
+💻 Software Engineering | Web Developer  
 🚀 Passionate about building real-world products & learning by doing  
 
 ---
